@@ -1,0 +1,9 @@
+﻿中间表,统计粒度,主键,行数,状态
+user_summary,每名用户一行,user_id,10000,已完成
+item_summary,每件商品一行,item_id,2876947,已完成
+category_summary,每个品类一行,item_category,8916,已完成
+time_hourly_summary,每小时一行,time,744,已完成
+time_daily_summary,每天一行,action_date,31,已完成
+time_weekly_summary,每周一行,week_start,5,已完成
+user_item_features,每个历史用户—商品组合一行,user_id + item_id,4546934,已完成
+user_item_labels,每个历史用户—商品组合一行,user_id + item_id,4546934,已完成，步骤三使用
