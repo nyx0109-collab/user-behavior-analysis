@@ -1,0 +1,6 @@
+﻿feature_table,row_count,column_count,null_cells,nonfinite_cells,negative_numeric_cells,latest_feature_time,leakage_columns
+user_time_features,9988,54,0,0,0,2025-12-17 23:00:00,无
+item_time_features,2803933,33,0,0,0,2025-12-17 23:00:00,无
+category_time_features,8875,54,0,0,0,2025-12-17 23:00:00,无
+user_category_features,880669,27,0,0,0,2025-12-17 23:00:00,无
+user_item_time_features,4546934,38,0,0,0,2025-12-17 23:00:00,无
