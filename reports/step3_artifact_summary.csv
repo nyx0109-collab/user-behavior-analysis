@@ -1,0 +1,12 @@
+﻿artifact_name,file_path,exists,file_size_mb
+最终全量特征宽表,../data/processed/step3_features/final_user_item_feature_wide_v1.parquet,True,1267.38
+独立购买标签,../data/processed/step3_labels/candidate_purchase_labels_v1.parquet,True,26.37
+用户SVD隐向量,../data/processed/step3_features/user_svd_embeddings_v1.parquet,True,0.35
+商品SVD隐向量,../data/processed/step3_features/item_svd_embeddings_v1.parquet,True,94.21
+用户—商品SVD匹配特征,../data/processed/step3_features/user_item_svd_features_v2.parquet,True,99.29
+商品关联规则,../data/processed/step3_features/item_association_features_v1.parquet,True,6.98
+用户—商品关联规则特征,../data/processed/step3_features/user_item_association_features_v1.parquet,True,35.69
+最终特征目录,../reports/step3_feature_catalog.csv,True,0.09
+Markdown特征字典,../reports/step3_feature_dictionary.md,True,0.05
+特征质量摘要,../reports/step3_feature_quality_summary.csv,True,0.0
+步骤三最终报告,../reports/step3_feature_engineering_report.md,True,0.01
